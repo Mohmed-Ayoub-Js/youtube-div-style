@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.element{
+  width: 55%;
+  background-color: #999999;
+  color: white;
+  border-radius: 40px 40px 40px 40px;
+  transition: 0.5s;
+}
+.element:hover{
+  box-shadow: 0 0 30px 0 blue;
+  color:blue;
+}
+body{
+  background-color:#333;
+}
